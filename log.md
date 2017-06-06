@@ -9,3 +9,4 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 **Thoughts**: Pretty smooth overall. Not used to complying to constraints setup by an open source repository. So was interesting when certain tests were failing with ESLint and I had to comply to the requirements. Wasn't difficult just new. All in all my merge worked and there were no merge conflicts.
 
 **Link(s) to work**:
+[CheckPalindrome function](http://github.com/eggheadio-github/stack-overflow-copy-paste/tree/master/src)
