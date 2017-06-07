@@ -14,3 +14,13 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 
 **Link(s) to work**:
 [CheckPalindrome function](http://github.com/eggheadio-github/stack-overflow-copy-paste/tree/master/src)
+
+### Day 1: Wednesday, 6/7/17
+
+**Today's Progress**:
+* Refactored the architecture of the React Native Tutorial I followed yesterday in order to see if I could apply another architecture with which I am familiar.
+* Worked on React Native Tutorial with Redux. (ListView, Form Creation, )
+
+**Thoughts**:
+* Couldn't get all of the refactor to work and had to find a middle ground
+* Want to work on own React Native project after finishing tutorial to so how much I learned and retained. Like I did with my [My Amazon](http://github.com/jdrichardstech/MyAmazon)
