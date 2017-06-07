@@ -19,8 +19,10 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 
 **Today's Progress**:
 * Refactored the architecture of the React Native Tutorial I followed yesterday in order to see if I could apply another architecture with which I am familiar.
-* Worked on React Native Tutorial with Redux. (ListView, Form Creation, )
+* Worked on React Native Tutorial with Redux.
+* Can definitely notice the similarities between React Native and Swift even though I only visited Swift for about a month. 
 
 **Thoughts**:
 * Couldn't get all of the refactor to work and had to find a middle ground
+* Using a lot more ES6. Interesting how it simplifies copying and changing state with mutating state directly. Still want to build a Node backend using ES6. Another goal.
 * Want to work on own React Native project after finishing tutorial to so how much I learned and retained. Like I did with my [My Amazon](http://github.com/jdrichardstech/MyAmazon)
