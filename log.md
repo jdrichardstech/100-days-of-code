@@ -21,7 +21,8 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 * Refactored the architecture of the React Native Tutorial I followed yesterday in order to see if I could apply another architecture with which I am familiar.
 * Worked on React Native Tutorial with Redux.
 * Can definitely notice the similarities between React Native and Swift even though I only visited Swift for about a month.
-* tried chunkyArray algorithm. failed.
+* tried chunkyArray algorithm. failed. will try tomorrow
+* went back...solved it [chunkyMonkey solution](http://repl.it/Ib2w/1)
 
 **Thoughts**:
 * Couldn't get all of the refactor to work and had to find a middle ground
