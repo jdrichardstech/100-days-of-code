@@ -33,6 +33,7 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 
 ### Day 1: Wednesday, 6/7/17
 **Today's Progress**:
+* Github hell!
 
 **Link(s) to work**:
 
