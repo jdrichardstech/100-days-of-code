@@ -35,4 +35,5 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 **Today's Progress**:
 
 **Link(s) to work**:
+
 **Thoughts**:
