@@ -30,3 +30,8 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 * Using a lot more ES6. Interesting how it simplifies copying and changing state with mutating state directly. Still want to build a Node backend using ES6. Another goal.
 * Want to work on own React Native project after finishing tutorial to so how much I learned and retained. Like I did with my [My Amazon](http://github.com/jdrichardstech/MyAmazon)
 * Thought process. Doing things on purpose not guessing. Think before coding. Continue to work on this.
+
+### Day 1: Wednesday, 6/7/17
+**Today's Progress**:
+**Link(s) to work**:
+**Thoughts**:
