@@ -34,9 +34,9 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 ### Day 1: Thursday, 6/8/17
 **Today's Progress**:
 * Github hell!
-* I have two accounts and spent quite some time trying to figure out how to push to either account. Generated ssh keys, edited configure file to no avail only to find out that I had to delete my github im the mac keychain. After that, when I push to my github account it simply asks for my username/email and password. Not a fan of keychain. I want to find a way to bypass it.
+* I have two accounts and spent quite some time trying to figure out how to push to either account. Generated ssh keys, edited configure file to no avail only to find out that I had to delete my github in the mac keychain. After that, when I push to my github account it simply asks for my username/email and password. Not a fan of keychain. I want to find a way to bypass it.
 * Finished first tutorial on React Native and starting an advanced tutorial. Just downloaded Exponent to my mac & iPhone and am excited to see how the workflow goes with that. Evidently, Exponent allows one to immediately view as well as share the current app you are working on. Also, by using an actual device, things like animations become less jittery and more like real world flow.
-* Spent the morning going over the code I had followed yesterday. I still have to get used to destructuring in React. It is sometimes hard for me to track. But it is definitely cleaner code.
+* Spent the morning going over the code I had followed yesterday. I still have to get used to destructuring in React and ES6. It is sometimes hard for me to track. But it is definitely cleaner code.
 
 
 **Link(s) to work**:
