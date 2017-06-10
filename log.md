@@ -14,6 +14,8 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 
 **Link(s) to work**:
 [CheckPalindrome function](http://github.com/eggheadio-github/stack-overflow-copy-paste/tree/master/src)
+[What Open Source Project Should I Contribute to, by Kent C. Dodds](http://medium.com/@kentcdodds/what-open-source-project-should-i-contribute-to-7d50ecfe1cb4)
+[How To Contribute to an Open Source Project on Github](http://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github)
 
 ### Day 1: Wednesday, 6/7/17
 
@@ -46,8 +48,21 @@ Forked, made pull request, added a checkPalindrome function to repository and ha
 * need to learn more about react-native-router-flux and react-native-communications
 * Received an invite to Chingu and have to consider whether I am going to take that on this month along with this. Have to investigate a bit more.
 
-### Day 2: Thursday, 6/9/17
+### Day 2: Friday, 6/9/17
 
 **Today's Progress**:
 * Beginning the day learning and reviewing data structures and algorithms. Specifically hash tables, linked lists and binary search trees.
 * Read a solid article on constructor functions [CSS-Tricks: Understanding Javascript Constructors](http://css-tricks.com/understanding-javascript-constructors/)
+* Practiced writing by hand algorithm code.
+* Did some of the javascript FCC lessons
+* Solved the [Mutations Basic Algorithm](http://repl.it/If4s/0)
+
+**Thoughts**:
+Still considered joining the Honey Badger Chingu. A bit intimidating but will help with accountability and focus I hope.
+
+### Day 3: Saturday, 6/10/17
+
+**Today's Progress**:
+* Signed up for the HoneyBadger Chingu
+* Working on Tutorial for Codepen.io to understand the interface since I haven't really used it.
+* After researching Boolean Objects solved [Falsy Bouncer](http://www.freecodecamp.com/challenges/falsy-bouncer)
