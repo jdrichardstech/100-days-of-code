@@ -63,6 +63,23 @@ Still considered joining the Honey Badger Chingu. A bit intimidating but will he
 ### Day 3: Saturday, 6/10/17
 
 **Today's Progress**:
-* Signed up for the HoneyBadger Chingu
-* Working on Tutorial for Codepen.io to understand the interface since I haven't really used it.
+* Signed up for the Honey-Badger Chingu
+* Working on Tutorial for Codepen.io to understand the interface since I'm not really used it.
 * After researching Boolean Objects solved [Falsy Bouncer](http://www.freecodecamp.com/challenges/falsy-bouncer)
+
+### Day 4: Sunday, 6/11/17
+
+**Today's Progress**:
+* Solved [Where Do I Belong algorithm on FCC](https://www.freecodecamp.com/challenges/where-do-i-belong)
+
+**Thoughts**:
+* Unsuccessful weekend. Too little time coding. Will have to find a weekend groove despite current family obligations.
+
+### Day 5: Monday, 6/12/17
+
+**Today's Progress**:
+* Started day practicing some of the Big O challenges in the "Cracking the Coding Interview" book.
+
+
+**Thoughts**:
+* Big O made a little more sense today. Got all the problems I went over correct except for one. 2 for loops 2 arrays in argument. Each for loop covers a separate array. Easy to think O(Nsquared) but wrong. O(ab). One must account for the two arrays.
