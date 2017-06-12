@@ -1,5 +1,5 @@
-##10 Things You Can Do to Boost Self-Confidence
-by Chris W. Dunn
+# 10 Things You Can Do to Boost Self-Confidence
+## by Chris W. Dunn
 
 1. ### Visualize yourself as you want to be.
 “What the mind can conceive and believe it can achieve.” -- Napoleon Hill
