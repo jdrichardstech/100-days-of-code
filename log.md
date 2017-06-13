@@ -79,7 +79,9 @@ Still considered joining the Honey Badger Chingu. A bit intimidating but will he
 
 **Today's Progress**:
 * Started day practicing some of the Big O challenges in the "Cracking the Coding Interview" book.
-
+* Pushing through the vanilla JS exercises section of FCC. Seeing how far I can get.
+* Late night helped some beginners with some of the coding problems on FreeCodeCamp. First time I've been brave enough and felt I could help. Will have to practice that more often. 
 
 **Thoughts**:
 * Big O made a little more sense today. Got all the problems I went over correct except for one. 2 for loops 2 arrays in argument. Each for loop covers a separate array. Easy to think O(Nsquared) but wrong. O(ab). One must account for the two arrays.
+* Feel like I should be building something or continuing with the react native tutorials but feeling guilty that my javascript basis and algorithms are lacking. Takes me too long to solve things that shouldn't be so difficult. So today will push through JS exercises & see if it helps me to level up in that area. Frustrating because instead of starting in the middle or at my level I want to push through every one step by step. May remember something I forgot even on the simplest levels.
