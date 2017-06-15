@@ -92,13 +92,23 @@ Still considered joining the Honey Badger Chingu. A bit intimidating but will he
 * Finished Basic JavaScript Section of FCC
 * Finished Object Oriented & Functional Programming on FCC
 * Completed Basic Algorithm Scripting on FCC
-* Started Intermediate Algorithm Scriptin on FCC
-
+* Started Intermediate Algorithm Scripting on FCC
+* stayed up all night answering coding algorithm (beginner) & react questions on FCC Bulletin Board
 
 **Thoughts**:
 * While I guess I felt improvement in thinking through algorithms I wish it could be
 faster and I wonder sometimes what a more elegant solution would have been compared to my answer.
 Still there is improvement.
 
+### Day 7: Wednesday, 6/14/17
+**Today's Progress**:
+* Watched Tony Robbins videos
+* Worked on Intermediate FCC algorithms
+* Answered FCC Bulletin Board questions
 
-**Link(s) to work**:
+**Thoughts**:
+* Helping on FCC Bulletin board is super positive, feels good.... but could become addictive and even a way to avoid progress if using other allotted time to do it or using it to avoid the next goal.
+* Feel like the pitfalls & shortcomings I ran into using a JS library like React, I run into just doing JS algorithms.
+* Weird how some seemingly more difficult algorithm challenges, TODAY, came easily while seemingly easy things were difficult.
+* Miss having something to show after working so many hours.
+* Like the FCC community.
